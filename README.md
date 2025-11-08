@@ -27,7 +27,7 @@ Aqui estão os projetos que mais me orgulho de ter desenvolvido:
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🗺️ **[Mapa de Empresas](https://jadersantos.com.br/mapa-cnpj)** | Aplicação web interativa que transforma +200 milhões de registros da Receita Federal em um mapa de calor e dashboards sobre o cenário empresarial brasileiro. | `Python`, `NiceGUI`, `Leaflet.js`, `Parquet`, `Docker` |
+| 🗺️ **[Mapa de Empresas](https://linhasecolunas.com.br/mapa-de-empresas)** | Aplicação web interativa que transforma +200 milhões de registros da Receita Federal em um mapa de calor e dashboards sobre o cenário empresarial brasileiro. | `Python`, `NiceGUI`, `Leaflet.js`, `Parquet`, `Docker` |
 | ⚙️ **[Pipeline de Dados de CNPJs (ETL)](https://github.com/msantosjader/rfb-cnpj-etl)** | Solução ETL completa que automatiza o download, processamento e carga de dados públicos de CNPJ em bancos de dados relacionais como PostgreSQL e SQLite. | `Python`, `Pandas`, `SQLAlchemy`, `PostgreSQL`, `GitHub Actions` |
 
 ---
